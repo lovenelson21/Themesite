@@ -1,8 +1,8 @@
 var WA = {
 	tracker:function(pma){
-		alert(pma.toString());
+		alert(1234);
 	},
 	pageView:function(pma){
-		alert(pma.toString());
+		alert(1234);
 	}
 }
